@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">SEVENTEEN</string>
+    <string name="member_name">SEVENTEEN MEMBERS</string>
+    <string name="detail_name">%1$s</string>
+    <string name="detail_real_name">Real Name: %1$s</string>
+    <string name="detail_dob">Date of Birth: %1$s</string>
+    <string name="detail_position">Position: %1$s</string>
+    <string name="detail_nationality">Nationality: %1$s</string>
+    <string name="detail_description">%1$s</string>
+    <string name="description">Description</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="myname">Devilia Dwi Candra</string>
+    <string name="email">deviliadcandra@gmail.com</string>
+    <string name="location">Indonesia</string>
+
+
+    <string-array name="member_name_data">
+        <item>S.COUPS</item>
+        <item>JEONGHAN</item>
+        <item>JOSHUA</item>
+        <item>JUN</item>
+        <item>HOSHI</item>
+        <item>WONWOO</item>
+        <item>WOOZI</item>
+        <item>DK</item>
+        <item>MINGYU</item>
+        <item>THE8</item>
+        <item>SEUNGKWAN</item>
+        <item>VERNON</item>
+        <item>DINO</item>
+    </string-array>
+
+    <string-array name="member_description_data">
+        <item>S.Coups, born Choi Seung Cheol on August 8, 1995, in Daegu, South Korea, is a versatile artist known for his roles in Seventeen as the leader, Hip-Hop Team leader, rapper, and sub-vocalist.</item>
+        <item>Jeonghan, known as Yoon Jeong Han, is a Libra born on October 4, 1995, in Hwaseong, South Korea. He brings harmony and nurturing energy to Seventeen as the Lead Vocalist and Visual member.</item>
+        <item>Joshua, also known as Joshua Hong or Hong Ji Soo, is a prominent member of Seventeen. Born in Los Angeles, California, on December 30, 1995, he is a Korean-American with a Korean heritage.</item>
+        <item>Jun, also known as Wen Junhui or Moon Jun Hwi, is a pivotal member of Seventeen. Born in Shenzhen, China, on June 10, 1996. He fluent in Mandarin, Cantonese, and Korean. His journey into K-pop was inspired by Chinese students love for the genre.</item>
+        <item>Hoshi, also known as Kwon Soon Young, is a vital member of Seventeen, serving as the Performance Team Leader, Main Dancer, Lead Vocalist, and Sub Rapper. Hoshi born on June 15, 1996, in Namyangju-si, Gyeonggi-do, South Korea.</item>
+        <item>Wonwoo, also known as Jeon Won Woo, is a valued member of Seventeen, serving as a Rapper and Sub Vocalist. He born on July 17, 1996, in Changwon, Gyeongsangnam-do, South Korea. He is recognized for having the lowest voice in Seventeen, a distinctive feature that sets him apart.</item>
+        <item>Woozi, also known as Lee Ji Hoon, is a prominent member of Seventeen, holding the positions of Vocal Team Leader, Lead Vocalist, and Producer. He born on November 22, 1996, in Busan, South Korea.</item>
+        <item>DK, also known as Dokyeom and born as Lee Seok Min, plays a vital role in Seventeen as the Main Vocalist. He was born on February 18, 1997, in Suji-gu, Yongin-si, Gyeonggi-do, South Korea.</item>
+        <item>Mingyu, also known by his birth name Kim Min Gyu, holds a multifaceted role within Seventeen, serving as a Rapper, Sub Vocalist, Visual, and Face of the Group. He born on April 6, 1997, in Anyang-si, Gyeonggi-do, South Korea.</item>
+        <item>The8, was born as Xu Ming Hao on November 7, 1997, in Haicheng, Liaoning, China. He also goes by his Korean name, Seo Myung Ho. The8 is a valuable member of Seventeen, holding the positions of Lead Dancer, Sub Vocalist, and Sub Rapper.</item>
+        <item>Seungkwan, known as Seungkwan on stage, was born as Boo Seung Kwan on January 16, 1998. He holds the pivotal positions of Main Vocalist and Face of the Group in Seventeen.</item>
+        <item>Vernon, known as Vernon on stage, was born as Hansol Vernon Chwe on February 18, 1998. He plays several crucial roles within Seventeen, including Rapper, Sub Vocalist, Visual, and Face of the Group.</item>
+        <item>Dino, was born as Lee Chan on February 11, 1999. He plays multiple significant roles within Seventeen, including Main Dancer, Sub Vocalist, Sub Rapper, and holds the position of the groups youngest member.</item>
+    </string-array>
+
+    <integer-array name="member_photo_data">
+        <item>@drawable/scoups</item>
+        <item>@drawable/jeonghan</item>
+        <item>@drawable/joshua</item>
+        <item>@drawable/jun</item>
+        <item>@drawable/hoshi</item>
+        <item>@drawable/wonwoo</item>
+        <item>@drawable/woozi</item>
+        <item>@drawable/dk</item>
+        <item>@drawable/mingyu</item>
+        <item>@drawable/the8</item>
+        <item>@drawable/seungkwan</item>
+        <item>@drawable/vernon</item>
+        <item>@drawable/dino</item>
+    </integer-array>
+
+    <string-array name="member_real_name_data">
+        <item>Choi Seung Cheol</item>
+        <item>Yoon Jeong Han</item>
+        <item>Joshua Hong</item>
+        <item>Wen Junhui</item>
+        <item>Kwon Soon Young</item>
+        <item>Jeon Won Woo</item>
+        <item>Lee Ji Hoon</item>
+        <item>Lee Seok Min</item>
+        <item>Kim Min Gyu</item>
+        <item>Xu Ming Hao</item>
+        <item>Boo Seung Kwan</item>
+        <item>Hansol Vernon Chwe</item>
+        <item>Lee Chan</item>
+    </string-array>
+
+    <string-array name="member_dob_data">
+        <item>August 8, 1995</item>
+        <item>October 4, 1995</item>
+        <item>December 30, 1995</item>
+        <item>June 10, 1996</item>
+        <item>June 15, 1996</item>
+        <item>July 17, 1996</item>
+        <item>November 22, 1996</item>
+        <item>February 18, 1997</item>
+        <item>April 6, 1997</item>
+        <item>November 7, 1997</item>
+        <item>January 16, 1998</item>
+        <item>February 18, 1998</item>
+        <item>February 11, 1999</item>
+    </string-array>
+
+    <string-array name="member_position_data">
+        <item>Leader, Hip-Hop Team Leader, Rapper, Sub Vocalist</item>
+        <item>Lead Vocalist, Visual</item>
+        <item>Lead Vocalist, Visual</item>
+        <item>Lead Dancer, Sub Vocalist</item>
+        <item>Performance Team Leader, Main Dancer, Lead Vocalist, Sub Rapper</item>
+        <item>Rapper, Sub Vocalist</item>
+        <item>Vocal Team Leader, Lead Vocalist, Producer</item>
+        <item>Main Vocalist</item>
+        <item>Rapper, Sub Vocalist, Visual, Face of the Group</item>
+        <item>Lead Dancer, Sub Vocalist, Sub Rapper</item>
+        <item>Main Vocalist, Face of the Group</item>
+        <item>Rapper, Sub Vocalist, Visual, Face of the Group</item>
+        <item>Main Dancer, Sub Vocalist, Sub Rapper, Maknae</item>
+    </string-array>
+
+    <string-array name="member_nationality_data">
+        <item>Korean</item>
+        <item>Korean</item>
+        <item>Korean-American</item>
+        <item>Chinese</item>
+        <item>Korean</item>
+        <item>Korean</item>
+        <item>Korean</item>
+        <item>Korean</item>
+        <item>Korean</item>
+        <item>Chinese</item>
+        <item>Korean</item>
+        <item>Korean-American</item>
+        <item>Korean</item>
+    </string-array>
+</resources>
